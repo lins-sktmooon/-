@@ -1,8 +1,7 @@
 # -
 代码在Releases里面
 
-实时年龄检测、年龄识别、只需要Python和OpenCV、dlib库就可以运行，方便的很
-这个主要在在香橙派5 Pro(Ubuntu20.04)上面运行，也可以在Windows上简单运行
+实时年龄检测、年龄识别、只需要Python和OpenCV、dlib库就可以运行，方便的很,这个主要在在香橙派5 Pro(Ubuntu20.04)上面运行，也可以在Windows上简单运行
 
 
 ​
